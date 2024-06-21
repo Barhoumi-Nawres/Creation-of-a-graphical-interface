@@ -1,0 +1,9 @@
+../Core/Src/ov7670.c:79:6:ov7670_init	16	static
+../Core/Src/ov7670.c:98:6:ov7670_config	16	static
+../Core/Src/ov7670.c:109:6:GetFramesFromOvCam	24	static
+../Core/Src/ov7670.c:201:6:ConfigurePWDNandRESETpins	8	static
+../Core/Src/ov7670.c:210:6:ResetRegisterForOvCam	32	static
+../Core/Src/ov7670.c:222:6:WriteOperationOVCam	32	static
+../Core/Src/ov7670.c:231:6:ReadOperationOVCam	24	static
+../Core/Src/ov7670.c:245:6:delayUsec	16	static
+../Core/Src/ov7670.c:251:6:delayUsecForTimSeven	16	static
