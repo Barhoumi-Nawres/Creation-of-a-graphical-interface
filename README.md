@@ -1,4 +1,4 @@
-# Project Title :Creation of a graphical interface 
+# Project Title :Creation of a graphical interface  PFA Project 
 HMI (human machine interface) creation for controlling a train's onboard video transmission system using QT-Creator /STM32/I2C/UART/C/C++/STM32.
 <h2>Description:</h2>
 This project demonstrates how to interface an STM32 microcontroller with an OV7670 camera module using the I2C protocol to capture data. 
